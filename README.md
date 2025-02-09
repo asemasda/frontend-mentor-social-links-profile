@@ -1,23 +1,60 @@
-# Frontend Mentor - Social links profile solution
+# **Frontend Mentor - Social Links Profile Solution**
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the **[Social Links Profile Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)** on Frontend Mentor. This challenge helped me improve my HTML, CSS, and responsive design skills by building a **real-world** project.
 
-# 
+---
 
-### Links
+## **🔗 Live Demo**
 
-- Solution URL: [GitHub - asemasda/frontend-mentor-social-links-profile: Frontend Mentor - Social Links Profile challenge solution.](https://github.com/asemasda/frontend-mentor-social-links-profile)
-- Live Site URL: https://clickconnect.netlify.app/
+🌍 **Live Site URL:** [ClickConnect](https://clickconnect.netlify.app/)
 
-## My process
+📂 **Solution Repository:** [GitHub](https://github.com/asemasda/frontend-mentor-social-links-profile)
 
-### Built with
+---
 
-- Semantic HTML5 
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+## **🛠️ Built With**
+
+- ✅ **Semantic HTML5**
+- ✅ **CSS Custom Properties**
+- ✅ **Flexbox**
+- ✅ **Mobile-First Workflow**
+- ✅ **Accessibility Best Practices (ARIA Labels, Role Attributes, etc.)**
+
+---
+
+## **📌 Features**
+
+✅ **Responsive Design:** Works on mobile, tablet, and desktop  
+✅ **Hover Effects:** Buttons change color on hover  
+✅ **Optimized Performance:** Clean and minimal CSS  
+✅ **Accessible Navigation:** ARIA labels for better usability
+
+---
+
+## **📂 Folder Structure**
+
+frontend-mentor-social-links-profile/
+│── assets/
+│   ├── images/
+│   │   ├── avatar-jessica.jpeg
+│   │   ├── favicon-32x32.png
+│── index.html
+│── style.css
+│── README.md
+
+---
+
+## **🚀 How to Run This Project Locally**
+
+1️⃣ **Clone the Repository:**
+
+git clone https://github.com/asemasda/frontend-mentor-social-links-profile.git
+
+2️⃣ **Open the `index.html` file** in your browser
+
+---
+
+## **📜 Acknowledgments**
+
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/).  
+Coded by **Asda Asem**.

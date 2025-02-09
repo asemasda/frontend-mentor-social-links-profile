@@ -6,14 +6,14 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub - asemasda/frontend-mentor-social-links-profile: Frontend Mentor - Social Links Profile challenge solution.](https://github.com/asemasda/frontend-mentor-social-links-profile)
+- Live Site URL: https://clickconnect.netlify.app/
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5 
 - CSS custom properties
 - Flexbox
 - CSS Grid
